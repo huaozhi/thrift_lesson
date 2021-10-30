@@ -1,2 +1,2 @@
-# thrift_lesson
- ACwing的linux基础课之thrift
+### Linux基础课
+## thrift基础教程
